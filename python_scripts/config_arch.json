@@ -1,0 +1,111 @@
+{
+    "Alpha": {
+        "ARCH": "alpha",
+        "SRCARCH": "alpha"
+        },
+    "ARC":{
+        "ARCH": "arc",
+        "SRCARCH": "arc"
+        },
+    "ARM 32-bit":{
+        "ARCH": "arm",
+        "SRCARCH": "arm"
+    },
+    "ARM 64-bit":{
+        "ARCH": "arm64",
+        "SRCARCH": "arm64"
+    },
+    "TI TMS320C6x":{
+        "ARCH": "c6x",
+        "SRCARCH": "c6x"
+    },
+    "C-SKY":{
+        "ARCH": "csky",
+        "SRCARCH": "csky"
+    },
+    "H8/300":{
+        "ARCH": "h8300",
+        "SRCARCH": "h8300"
+    },
+    "Qualcomm Hexagon":{
+        "ARCH":"hexagon",
+        "SRCARCH": "hexagon"
+    },
+    "IA-64":{
+        "ARCH": "ia64",
+        "SRCARCH": "ia64"
+    },
+    "Motorola 68000":{
+        "ARCH": "m68k",
+        "SRCARCH": "m68k"
+    },
+    "MicroBlaze":{
+        "ARCH": "microblaze",
+        "SRCARCH": "microblaze"
+    },
+    "MIPS":{
+        "ARCH": "mips",
+        "SRCARCH": "mips"
+    },
+    "NDS32":{
+        "ARCH": "nds32",
+        "SRCARCH": "nds32"
+    },
+    "Nios II":{
+        "ARCH":"nios2",
+        "SRCARCH": "nios2"
+    },
+    "OpenRISC":{
+        "ARCH": "openrisc",
+        "SRCARCH": "openrisc"
+    },
+    "PA-RISC":{
+        "ARCH": "parisc",
+        "SRCARCH": "parisc"
+    },
+    "PowerPC":{
+        "ARCH": "powerpc",
+        "SRCARCH": "powerpc"
+    },
+    "RISC-V":{
+        "ARCH": "riscv",
+        "SRCARCH": "riscv"
+    },
+    "IBM System/390 and z/Architecture":{
+        "ARCH": "s390",
+        "SRCARCH": "s390"
+    },
+    "SuperH 32-bit":{
+        "ARCH": "sh",
+        "SRCARCH": "sh"
+    },
+    "SuperH 64-bit":{
+        "ARCH": "sh64",
+        "SRCARCH": "sh64"
+    },
+    "SPARC 32-bit":{
+        "ARCH": "sparc32",
+        "SRCARCH": "sparc"
+    },
+    "SPARC 64-bit":{
+        "ARCH": "sparc64",
+        "SRCARCH": "sparc"
+    },
+    "User-Mode Linux":{
+        "ARCH": "um",
+        "SRCARCH": "um"
+    },
+    "x86-32":{
+        "ARCH": "i386",
+        "SRCARCH": "x86"
+    },
+    "x86-64":{
+        "ARCH": "x86_64",
+        "SRCARCH": "x86"
+    },
+    "Xtensa":{
+        "ARCH": "xtensa",
+        "SRCARCH": "xtensa"
+    }
+}
+
